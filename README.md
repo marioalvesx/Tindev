@@ -1,12 +1,19 @@
-<img src="mobile/src/assets/logo@3x.png">
+<p align="center">
+<img src="mobile/src/assets/logo@3x.png" width="190px"/>
+</p>
+<h1 align="center">🧑‍💻 A social network for devs  </h1>
+<p>
 
-A social network for devs :)
-
+## ❔ What is it?
 - Application web and mobile created using one of the most powerfull stacks currently.
-- Created for the purpose of study the stack: NodeJS, React and React Native.
+
+## ⚛️ Techonologies (stack)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 - I do not recommend the comercial use of this application, remembering that it's development is only to reasons of particular studies.
 
-## How to use Tindev?
+## ⚙️ How to use Tindev?
 
 - [x] Enter your Github user;
 - [x] Search for the others developers that logged in the Tindev app too.
@@ -21,18 +28,18 @@ A social network for devs :)
 
 - Match in web and mobile version in REAL-TIME! 
 
-## What does the app show?
+## 🔍 What does the app show?
 
 - The picture of the dev.
 - It shows the Github user.
 - Bio of the dev.
 
-## Use it
+## 🤝 Use it
 
 - Use for study and to possible upgrades, if you like.
-- I am still working on improvements and updating some things. Fell free to contribute. 
+- Feel free to contribute. 
 
 ### And... Enjoy it :grey_exclamation:
 
-#### All rights to Rocketseat - Omnistack 8.0. :rocket:
+#### All rights to <a href="https://github.com/Rocketseat">Rocketseat</a> - Omnistack 8.0. :rocket:
   - Project developed in one week.
